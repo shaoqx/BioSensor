@@ -231,14 +231,14 @@ abbr {
   border-bottom: 1px dotted;
 }
 a {
-  color: #f1a177;
+  color: #ffa45b;
   text-decoration: none;
 }
 a:hover {
-  color: #f2aa85;
+  color: #ffad6b;
 }
 a:active {
-  color: #ee8a56;
+  color: #ff9138;
 }
 a.disabled {
   color: #6c757d;
@@ -294,30 +294,30 @@ h6,
   font-weight: lighter;
 }
 .text-primary {
-  color: #f1a177 !important;
+  color: #ffa45b !important;
 }
 .bg-primary {
-  background-color: #f1a177 !important;
+  background-color: #ffa45b !important;
 }
 .btn-primary {
-  background-color: #f1a177;
-  border-color: #f1a177;
+  background-color: #ffa45b;
+  border-color: #ffa45b;
 }
 .btn-primary:hover {
-  background-color: #f2aa85;
+  background-color: #ffad6b;
 }
 .text-secondary {
-  color: #fadfd1 !important;
+  color: #fa6095 !important;
 }
 .bg-secondary {
-  background-color: #fadfd1 !important;
+  background-color: #fa6095 !important;
 }
 .btn-secondary {
-  background-color: #fadfd1;
-  border-color: #fadfd1;
+  background-color: #fa6095;
+  border-color: #fa6095;
 }
 .btn-secondary:hover {
-  background-color: #fae2d6;
+  background-color: #fb70a0;
 }
 .text-success {
   color: #7bed9f !important;
